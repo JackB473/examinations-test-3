@@ -11,6 +11,9 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/spelScen.unity
     guid: 19c91516fbaa7fc48a77533573d213db
+  - enabled: 1
+    path: Assets/Scenes/Egen scen med kort bakgrundsstory.unity
+    guid: 3b3d748c1461e734fa9c2a32a6579350
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
   m_UseUCBPForAssetBundles: 0
