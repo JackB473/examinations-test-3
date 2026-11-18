@@ -357,7 +357,7 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
-      - m_Target: {fileID: 0}
+      - m_Target: {fileID: 2279087411016404176, guid: 0d55e30477d80c14284f00cb633789d6, type: 3}
         m_TargetAssemblyTypeName: UICounter, Assembly-CSharp
         m_MethodName: AddToCounter
         m_Mode: 3
