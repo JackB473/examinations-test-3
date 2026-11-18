@@ -44664,7 +44664,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: daaf93a61213400408500ead8f34323a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::TopDownMovement
-  maxSpeed: 8
+  maxSpeed: 6
 --- !u!70 &1338824118
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
