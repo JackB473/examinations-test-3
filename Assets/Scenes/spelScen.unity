@@ -44676,45 +44676,9 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5339711191876892615, guid: ef8fe83b0a163a046842e851a4ab5467, type: 3}
-      propertyPath: OnDamaged.m_PersistentCalls.m_Calls.Array.size
-      value: 2
-      objectReference: {fileID: 0}
-    - target: {fileID: 5339711191876892615, guid: ef8fe83b0a163a046842e851a4ab5467, type: 3}
-      propertyPath: OnDamaged.m_PersistentCalls.m_Calls.Array.data[2].m_Mode
-      value: 3
-      objectReference: {fileID: 0}
-    - target: {fileID: 5339711191876892615, guid: ef8fe83b0a163a046842e851a4ab5467, type: 3}
       propertyPath: OnDamaged.m_PersistentCalls.m_Calls.Array.data[1].m_Target
       value: 
       objectReference: {fileID: 1284447846}
-    - target: {fileID: 5339711191876892615, guid: ef8fe83b0a163a046842e851a4ab5467, type: 3}
-      propertyPath: OnDamaged.m_PersistentCalls.m_Calls.Array.data[2].m_Target
-      value: 
-      objectReference: {fileID: 11500000, guid: 16b741a9b6beb9b40b2838b5bd759175, type: 3}
-    - target: {fileID: 5339711191876892615, guid: ef8fe83b0a163a046842e851a4ab5467, type: 3}
-      propertyPath: OnDamaged.m_PersistentCalls.m_Calls.Array.data[2].m_CallState
-      value: 2
-      objectReference: {fileID: 0}
-    - target: {fileID: 5339711191876892615, guid: ef8fe83b0a163a046842e851a4ab5467, type: 3}
-      propertyPath: OnDamaged.m_PersistentCalls.m_Calls.Array.data[1].m_MethodName
-      value: AddToCounter
-      objectReference: {fileID: 0}
-    - target: {fileID: 5339711191876892615, guid: ef8fe83b0a163a046842e851a4ab5467, type: 3}
-      propertyPath: OnDamaged.m_PersistentCalls.m_Calls.Array.data[2].m_TargetAssemblyTypeName
-      value: UICounter, Assembly-CSharp
-      objectReference: {fileID: 0}
-    - target: {fileID: 5339711191876892615, guid: ef8fe83b0a163a046842e851a4ab5467, type: 3}
-      propertyPath: OnDamaged.m_PersistentCalls.m_Calls.Array.data[2].m_Arguments.m_IntArgument
-      value: -3
-      objectReference: {fileID: 0}
-    - target: {fileID: 5339711191876892615, guid: ef8fe83b0a163a046842e851a4ab5467, type: 3}
-      propertyPath: OnDamaged.m_PersistentCalls.m_Calls.Array.data[2].m_Arguments.m_FloatArgument
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 5339711191876892615, guid: ef8fe83b0a163a046842e851a4ab5467, type: 3}
-      propertyPath: OnDamaged.m_PersistentCalls.m_Calls.Array.data[2].m_Arguments.m_ObjectArgumentAssemblyTypeName
-      value: UnityEngine.Object, UnityEngine
-      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
