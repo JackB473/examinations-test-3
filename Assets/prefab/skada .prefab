@@ -155,7 +155,7 @@ MonoBehaviour:
   onTriggerEnter:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 0}
+      - m_Target: {fileID: 5339711191876892615, guid: ef8fe83b0a163a046842e851a4ab5467, type: 3}
         m_TargetAssemblyTypeName: Health, Assembly-CSharp
         m_MethodName: TakeDamage
         m_Mode: 4
@@ -163,7 +163,7 @@ MonoBehaviour:
           m_ObjectArgument: {fileID: 0}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
-          m_FloatArgument: 1
+          m_FloatArgument: 3
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
