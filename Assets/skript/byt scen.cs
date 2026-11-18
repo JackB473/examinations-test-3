@@ -5,5 +5,6 @@ public class SceneController : MonoBehaviour
     public void ChangeScene(string spelScen)
     {
         SceneManager.LoadScene(spelScen);
+        Debug.Log($"Loading scene {spelScen}");
     }
 }
